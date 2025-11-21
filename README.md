@@ -9,7 +9,8 @@ This repository is build with ROS2.
 ```
 lsusb
 ```
-![alt text](https://github.com/yangzhongii/command_pub_pkg/blob/main/img/img_v3_02s8_6913716e-b88d-4b53-809b-4c988b5d39cg.jpg)
+
+<img src="img/img_v3_02s8_6913716e-b88d-4b53-809b-4c988b5d39cg.jpg" alt="1" width="200" />
 
 当输出QinHeng的选项时候就证明已经连接上了。
 
@@ -30,7 +31,7 @@ sudo udevadm trigger
 sudo service udev reload
 sudo service udev restart
 ```
-![alt text](https://github.com/yangzhongii/command_pub_pkg/blob/main/img/img_v3_02s8_afe5951a-e0ac-4766-bb11-04167a8fc33g.jpg)
+<img src="img/img_v3_02s8_afe5951a-e0ac-4766-bb11-04167a8fc33g.jpg" alt="2" width="200" />
 
 当输出这些信息的时候证明已经更新完成了
 
@@ -57,7 +58,8 @@ cd ../
 colcon build
 ```
 
-![alt text](https://github.com/yangzhongii/command_pub_pkg/blob/main/img/image.png)
+<img src="img/image.png" alt="3" width="200" />
+
 
 当输出图片中的信息证明已经编译完成了
 
